@@ -15,7 +15,7 @@
 /* Custom Font
    ========================================================================== */
 
-/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
+@import url('https://github.com/Lothiraldan/feedlight/blob/master/static/font/AvenirNextLTPro-Regular.otf?raw=true');
 
 /* Master File
    ========================================================================== */
@@ -26,22 +26,22 @@
    ========================================================================== */
 
 /* @import url(https://rawgit.com/sydekends/TransparencyTheme/master/ADDONS/Transparency2Grid.css); /* Server Grid 2 Column */
-@import url(https://rawgit.com/sydekends/TransparencyTheme/master/ADDONS/TransparencyChatBG.css); /* Chat Background */
+/*@import url(https://rawgit.com/sydekends/TransparencyTheme/master/ADDONS/TransparencyChatBG.css); /* Chat Background */
 
 /* Configuration
    ========================================================================== */
-
+/* https://i.imgur.com/FCr3fwO.jpg  https://i.imgur.com/cgXhRqp.png https://i.imgur.com/K3PmaZF.jpg*/
 :root {
     --font-family: '';
-    --bg-app: url(https://static.zerochan.net/Darling.in.the.FranXX.full.2290919.jpg);
-    --bg-popout: url(https://i.imgur.com/i5dtERt.jpg);
-    --bg-homeButton: url(https://i.imgur.com/9ozkqSQ.png);
+    --bg-app: url(https://i.imgur.com/K3PmaZF.jpg );
+    --bg-popout: url(https://i.imgur.com/mXr6S7Q.jpg );
+    --bg-homeButton: url(https://i.imgur.com/cgXhRqp.png );
     --text-primary: #fff;
-    --text-secondary: #ccc; /* Darker color of --text-primary */
-    --accent-color: #ff7979;
-    --accent-hover: #eb4d4b; /* Darker color of --accent-color */
+    --text-secondary: #e67e22; /* Darker color of --text-primary */
+    --accent-color: #e67e22;
+    --accent-hover: #e67e22; /* Darker color of --accent-color */
     --transparency-color: 0, 0, 0; /* Default: 0, 0, 0 */
-    --transparency-alpha: 0.7; /* Default: 0.7 */
+    --transparency-alpha: 0.55; /* Default: 0.7 */
     --notification-borderSize: 3px; /* Default: 3px */
     --opacity-dimmed: .5; /* Default: .5 */
 }

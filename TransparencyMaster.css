@@ -303,21 +303,6 @@ body {
     background: rgba(var(--transparency-color),var(--transparency-alpha)) !important;
 }
 
-.titleBar-AC4pGV .wordmark-2iDDfm::after {
-    /* For credits don't remove */
-    display: inline-block;
-    position: absolute;
-    top: 5px;
-    left: 70px;
-    width: 280px;
-    height: 16px;
-    height: 16px;
-    color: #fff;
-    font-weight: bold;
-    font-size: 13px;
-    z-index: 999;
-}
-
 .titleBar-AC4pGV .winButtonMinMax-PBQ2gm:hover {
     background: rgba(var(--transparency-color),var(--transparency-alpha)) !important;
 }
@@ -828,16 +813,6 @@ body {
     font-weight: 700 !important;
     line-height: 16px !important;
     text-transform: uppercase;
-}
-
-.ui-standard-sidebar-view:before {
-    /* For credits don't remove */
-    transform: rotate(-90deg);
-	color: #fff;
-	position: absolute;
-	right: -125px;
-	bottom: 150px;
-	opacity: .3;
 }
 
 .ui-standard-sidebar-view .tools .closeButton-1tv5uR svg path:last-child {

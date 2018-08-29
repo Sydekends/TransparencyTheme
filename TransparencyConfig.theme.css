@@ -1,4 +1,4 @@
-//META {"name":"Transparency Theme","description":"If you have any question or suggestion just message me at discord _Twiistrz#8016","author":"_Twiistrz#8016","version":"Config"}*//{}
+//META {"name":"Transparency Theme","description":"If you have any question or suggestion just message me at discord _sydekends#8016","author":"_sydekends#8016","version":"Config"}*//{}
 
 /**
  * To make editing this theme easier I recommend using Notepad++ , you can download it for free here - https://notepad-plus-plus.org/download/ 
@@ -20,13 +20,13 @@
 /* Master File
    ========================================================================== */
 
-@import url(https://rawgit.com/Twiistrz/TransparencyTheme/master/TransparencyMaster.css);
+@import url(https://rawgit.com/sydekends/TransparencyTheme/master/TransparencyMaster.css);
 
 /* Add-ons - Comment out to disable
    ========================================================================== */
 
-/* @import url(https://rawgit.com/Twiistrz/TransparencyTheme/master/ADDONS/Transparency2Grid.css); /* Server Grid 2 Column */
-@import url(https://rawgit.com/Twiistrz/TransparencyTheme/master/ADDONS/TransparencyChatBG.css); /* Chat Background */
+/* @import url(https://rawgit.com/sydekends/TransparencyTheme/master/ADDONS/Transparency2Grid.css); /* Server Grid 2 Column */
+@import url(https://rawgit.com/sydekends/TransparencyTheme/master/ADDONS/TransparencyChatBG.css); /* Chat Background */
 
 /* Configuration
    ========================================================================== */

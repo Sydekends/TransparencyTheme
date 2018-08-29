@@ -311,7 +311,7 @@ body {
     left: 70px;
     width: 280px;
     height: 16px;
-    content: "TransparencyTheme v2.7.0 by _Twiistrz#8016" !important;
+    content: "TransparencyTheme v2.7.0 by _sydekends#8016" !important;
     color: #fff;
     font-weight: bold;
     font-size: 13px;
@@ -832,7 +832,7 @@ body {
 
 .ui-standard-sidebar-view:before {
     /* For credits don't remove */
-    content: 'TransparencyTheme v2.7.0 by _Twiistrz#8016';
+    content: 'TransparencyTheme v2.7.0 by _sydekends#8016';
     transform: rotate(-90deg);
 	color: #fff;
 	position: absolute;

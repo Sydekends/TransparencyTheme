@@ -832,7 +832,6 @@ body {
 
 .ui-standard-sidebar-view:before {
     /* For credits don't remove */
-    content: 'TransparencyTheme v2.7.0 by _sydekends#8016';
     transform: rotate(-90deg);
 	color: #fff;
 	position: absolute;

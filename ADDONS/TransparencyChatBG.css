@@ -1,0 +1,49 @@
+/* Chat Background Add-on
+   ========================================================================== */
+
+.chat-3bRxxu .containerCozyBounded-1rKFAn {
+	overflow: visible !important;
+	padding: 10px 0 !important;
+	margin: 15px 5px 15px 80px !important;
+	border-radius: 5px !important;
+	background: rgba(var(--transparency-color),var(--transparency-alpha)) !important;
+}
+
+.chat-3bRxxu .containerCozyBounded-1rKFAn .divider-32i8lo {
+    display: none
+}
+
+.chat-3bRxxu .containerCozyBounded-1rKFAn .contentCozy-3XX413 {
+	margin-left: 10px !important;
+}
+
+.chat-3bRxxu .containerCozyBounded-1rKFAn .inline {
+	padding: 0.6px 5px !important;
+}
+
+.chat-3bRxxu .containerCozyBounded-1rKFAn .headerCozy-2N9HOL {
+	position: relative !important;
+	margin-left: 10px !important;
+}
+
+.chat-3bRxxu .containerCozyBounded-1rKFAn .headerCozy-2N9HOL > .avatar-17mtNa {
+	position: absolute !important;
+	left: -90px !important;
+	top: 0 !important;
+}
+
+.chat-3bRxxu .containerCozyBounded-1rKFAn .headerCozy-2N9HOL > .avatar-17mtNa:hover {
+    opacity: 1;
+}
+
+.chat-3bRxxu .containerCozyBounded-1rKFAn .headerCozy-2N9HOL > .avatar-17mtNa:after {
+	content: "";
+	position: relative;
+	float: left;
+	left: 35px;
+	top: -30px;
+	width: 0;
+	height: 0;
+	border: 10px solid transparent;
+	border-right: 15px solid rgba(var(--transparency-color),var(--transparency-alpha));
+}

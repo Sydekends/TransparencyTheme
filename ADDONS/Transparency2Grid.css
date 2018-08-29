@@ -1,0 +1,47 @@
+/* Server Grid 2 Column Add-on
+   ========================================================================== */
+
+#bd-pub-li .guildInner-3DSoA4 a {
+    margin: 0 auto;
+}
+
+.guildsWrapper-5TJh6A {
+    width: 125px;
+}
+
+.guildsWrapper-5TJh6A > .scrollerWrap-1IAIlv {
+    width: 150px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH {
+    display: flex;
+    flex-flow: row wrap;
+    padding-left: 0;
+    align-content: flex-start;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH > .dms-rcsEnV {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH > .friendsOnline-_wi_fM {
+    position: relative;
+    width: 100%;
+    margin: auto;
+    margin-top: 5px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH > .guild-1EfMGQ:first-child {
+    position: relative; 
+    left: 0;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ {
+    position: relative;
+    margin-left: 8px;
+    margin-top: 8px;
+}

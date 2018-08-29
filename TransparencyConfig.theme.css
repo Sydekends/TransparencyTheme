@@ -1,0 +1,47 @@
+//META {"name":"Transparency Theme","description":"If you have any question or suggestion just message me at discord _Twiistrz#8016","author":"_Twiistrz#8016","version":"Config"}*//{}
+
+/**
+ * To make editing this theme easier I recommend using Notepad++ , you can download it for free here - https://notepad-plus-plus.org/download/ 
+ *
+ * Any images you use MUST end with .jpg or .png or any other image extension 
+ * This is NOT a valid link, https://imgur.com/a/ycjL2 
+ * This is a valid link, https://i.imgur.com/rCqnrQ7.jpg 
+ *
+ * If you find an image I would STRONGLY recommend rehosting the image on imgur https://imgur.com/upload 
+ *
+ * Go to https://flatuicolors.com/ to find the color you want.
+**/
+
+/* Custom Font
+   ========================================================================== */
+
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
+
+/* Master File
+   ========================================================================== */
+
+@import url(https://rawgit.com/Twiistrz/TransparencyTheme/master/TransparencyMaster.css);
+
+/* Add-ons - Comment out to disable
+   ========================================================================== */
+
+/* @import url(https://rawgit.com/Twiistrz/TransparencyTheme/master/ADDONS/Transparency2Grid.css); /* Server Grid 2 Column */
+@import url(https://rawgit.com/Twiistrz/TransparencyTheme/master/ADDONS/TransparencyChatBG.css); /* Chat Background */
+
+/* Configuration
+   ========================================================================== */
+
+:root {
+    --font-family: '';
+    --bg-app: url(https://static.zerochan.net/Darling.in.the.FranXX.full.2290919.jpg);
+    --bg-popout: url(https://i.imgur.com/i5dtERt.jpg);
+    --bg-homeButton: url(https://i.imgur.com/9ozkqSQ.png);
+    --text-primary: #fff;
+    --text-secondary: #ccc; /* Darker color of --text-primary */
+    --accent-color: #ff7979;
+    --accent-hover: #eb4d4b; /* Darker color of --accent-color */
+    --transparency-color: 0, 0, 0; /* Default: 0, 0, 0 */
+    --transparency-alpha: 0.7; /* Default: 0.7 */
+    --notification-borderSize: 3px; /* Default: 3px */
+    --opacity-dimmed: .5; /* Default: .5 */
+}

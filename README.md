@@ -1,29 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sydekends/BetterDiscordThemeMasterFile/master/IMAGES/up-to-date.png" />
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sydekends/BetterDiscordThemeMasterFile/master/IMAGES/info.png" />
-</p>
-
-<p align="center">
   If you're using my theme don't forget to hit that star button in the repo. Stars are much appreciated <3<br/>
   Shoutout to all the boys in #css-and-themes in BD2 for all the help they've given.<br/>
   Download <a href="https://github.com/sydekends/TransparencyTheme/blob/master/TransparencyConfig.theme.css">TransparencyConfig.theme.css</a> and you're good to go.
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sydekends/BetterDiscordThemeMasterFile/master/IMAGES/addons.png" /><br/>
-</p>
-
 - Server Grid 2 Column (Fixed Version)
 - Chat Background
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sydekends/BetterDiscordThemeMasterFile/master/IMAGES/bandagedbd.png" />
-</p>
 
 ### Download
 Use this for now: https://github.com/rauenzi/BetterDiscordApp/releases/

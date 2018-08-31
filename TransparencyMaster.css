@@ -886,6 +886,71 @@ body {
     background: rgba(var(--transparency-color),var(--transparency-alpha));
 }
 
+/* User Popout
+   ========================================================================== */
+
+.userPopout-3XzG_A {
+    background: var(--bg-popout) center/cover no-repeat;
+}
+
+.userPopout-3XzG_A .role-2irmRk,
+.userPopout-3XzG_A .header-2BwW8b,
+.userPopout-3XzG_A .body-3iLsc4,
+.userPopout-3XzG_A .footer-1fjuF6,
+.userPopout-3XzG_A .quickMessage-1yeL4E,
+.userPopout-3XzG_A .note-3kmerW textarea:focus {
+    background: rgba(var(--transparency-color),var(--transparency-alpha)) !important;
+}
+
+.userPopout-3XzG_A .role-2irmRk.addButton-pcyyf6:hover,
+.userPopout-3XzG_A .tip-2ab612,
+.userPopout-3XzG_A .bodyTitle-Y0qMQz {
+    color: var(--text-primary) !important;
+}
+
+.userPopout-3XzG_A .note-3kmerW {
+    color: var(--text-secondary) !important;
+}
+
+z
+.userPopout-3XzG_A .role-2irmRk.addButton-pcyyf6 {
+    width: 32px;
+    border-radius: 50%;
+}
+
+.userPopout-3XzG_A .actionButton-VzECiy.popout-open {
+    background: var(--accent-color) !important;
+}
+
+.userPopout-3XzG_A .role-2irmRk .roleCircle-3xAZ1j {
+    border-radius: 50% !important;
+    height: 32px;
+    width: 32px;
+}
+
+.roleRemoveIcon-2-TeGW {
+    position: relative;
+    transform: scale(0.25);
+    width: 24px;
+    height: 24px;
+    display: block;
+    opacity: 0;
+}
+
+
+.userPopout-3XzG_A .role-2irmRk .addButtonIcon-1NMJ8u {
+    cursor: pointer;
+    height: 10px;
+    width: 10px;
+}
+
+.userPopout-3XzG_A .actionButton-VzECiy.popout-open svg {
+    transform: rotate(45deg);
+}
+
+.userPopout-3XzG_A .actionButton-VzECiy.popout-open svg g {
+    fill: rgb(255, 255, 255);
+}
 
 /* Modal Popout
    ========================================================================== */

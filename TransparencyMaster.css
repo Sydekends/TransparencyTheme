@@ -902,12 +902,6 @@ body {
     background: rgba(var(--transparency-color),var(--transparency-alpha)) !important;
 }
 
-.userPopout-3XzG_A .role-2irmRk {
-    height: 32px;
-    border-radius: 16px;
-    border: 0 !important;
-}
-
 .userPopout-3XzG_A .role-2irmRk.addButton-pcyyf6:hover,
 .userPopout-3XzG_A .tip-2ab612,
 .userPopout-3XzG_A .bodyTitle-Y0qMQz {
@@ -918,10 +912,7 @@ body {
     color: var(--text-secondary) !important;
 }
 
-.userPopout-3XzG_A .role-2irmRk:not(.addButton-pcyyf6) {
-    padding-left: 0 !important;
-}
-
+z
 .userPopout-3XzG_A .role-2irmRk.addButton-pcyyf6 {
     width: 32px;
     border-radius: 50%;
@@ -937,7 +928,7 @@ body {
     width: 32px;
 }
 
-.userPopout-3XzG_A .role-2irmRk .roleCircle-3xAZ1j .roleRemoveIcon-2-TeGW {
+.roleRemoveIcon-2-TeGW {
     position: relative;
     transform: scale(0.25);
     width: 24px;
@@ -946,10 +937,6 @@ body {
     opacity: 0;
 }
 
-.userPopout-3XzG_A .role-2irmRk:hover .roleCircle-3xAZ1j .roleRemoveIcon-2-TeGW {
-    transform: scale(1) rotate(90deg);
-    opacity: 1;
-}
 
 .userPopout-3XzG_A .role-2irmRk .addButtonIcon-1NMJ8u {
     cursor: pointer;
